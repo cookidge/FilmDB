@@ -24,7 +24,7 @@ namespace FilmDB
         public MainForm()
         {
             InitializeComponent();
-            // Display Film table
+            // Display Film Table
             RefreshFilmView();
             // Populate years
             PopulateYearDropDown();
